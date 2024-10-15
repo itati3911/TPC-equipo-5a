@@ -1,0 +1,4 @@
+C:\TPC-equipo-5a\TPC-equipo-5a\ApplicationService\obj\Debug\ApplicationService.csproj.AssemblyReference.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\ApplicationService\obj\Debug\ApplicationService.csproj.AssemblyReference.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\ApplicationService\obj\Debug\ApplicationService.csproj.CoreCompileInputs.cache

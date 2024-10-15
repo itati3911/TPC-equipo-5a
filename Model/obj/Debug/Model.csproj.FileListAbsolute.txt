@@ -1,0 +1,12 @@
+C:\TPC-equipo-5a\TPC-equipo-5a\Model\bin\Debug\Model.dll
+C:\TPC-equipo-5a\TPC-equipo-5a\Model\bin\Debug\Model.pdb
+C:\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.dll
+C:\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.pdb
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\bin\Debug\Model.dll
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\bin\Debug\Model.pdb
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.dll
+C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.pdb
