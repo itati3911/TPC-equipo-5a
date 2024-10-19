@@ -10,3 +10,9 @@ C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.csproj.Assemb
 C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.dll
 C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\Model\obj\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\Model\bin\Debug\Model.dll
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\Model\bin\Debug\Model.pdb
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\Model\obj\Debug\Model.dll
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\Model\obj\Debug\Model.pdb

@@ -1,0 +1,15 @@
+﻿/* CssStyle.css */
+body {
+    background-color: #333; /* Fondo oscuro */
+    color: white; /* Texto en blanco */
+}
+
+.navbar {
+    background-color: #444; /* Barra de navegación oscura */
+}
+
+  
+    
+.foterText{
+    color:blue;
+}

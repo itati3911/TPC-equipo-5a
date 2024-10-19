@@ -49,5 +49,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProveedorAS.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataPersistance\DataPersistance.csproj">
+      <Project>{012e6262-3659-49eb-bca4-27fb8d40f6e3}</Project>
+      <Name>DataPersistance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{8437c051-30b3-4152-84e3-069344f2c0af}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

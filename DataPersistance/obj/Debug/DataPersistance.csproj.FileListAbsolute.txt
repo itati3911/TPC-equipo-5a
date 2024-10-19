@@ -10,3 +10,9 @@ C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersi
 C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.csproj.CoreCompileInputs.cache
 C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.dll
 C:\TPC-equipo-5a\TPC-equipo-5a\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.pdb
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\DataPersistance\bin\Debug\DataPersistance.dll
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\DataPersistance\bin\Debug\DataPersistance.pdb
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.dll
+C:\Users\Lenovo\Desktop\PORFOLIONEW\TPWEB\TPC-equipo-5a\DataPersistance\obj\Debug\DataPersistance.pdb
