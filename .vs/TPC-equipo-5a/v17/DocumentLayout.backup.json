@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA706754-F782-4540-B456-66C5A38A1075}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\porfolionew\\tpweb\\tpc-equipo-5a\\webapp\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BA706754-F782-4540-B456-66C5A38A1075}|WebApp\\WebApp.csproj|solutionrelative:webapp\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA706754-F782-4540-B456-66C5A38A1075}|WebApp\\WebApp.csproj|C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\webapp\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA706754-F782-4540-B456-66C5A38A1075}|WebApp\\WebApp.csproj|solutionrelative:webapp\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACB016F-3AAD-4DB0-B82B-EB82A14AAE8D}|ApplicationService\\ApplicationService.csproj|C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\applicationservice\\articuloas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACB016F-3AAD-4DB0-B82B-EB82A14AAE8D}|ApplicationService\\ApplicationService.csproj|solutionrelative:applicationservice\\articuloas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA706754-F782-4540-B456-66C5A38A1075}|WebApp\\WebApp.csproj|C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\webapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{BA706754-F782-4540-B456-66C5A38A1075}|WebApp\\WebApp.csproj|solutionrelative:webapp\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\CssStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CssStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CssStyle.css",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\CssStyle.css",
+              "RelativeDocumentMoniker": "CssStyle.css",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\CssStyle.css",
+              "RelativeToolTip": "CssStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T20:56:40.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloAS.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\ApplicationService\\ArticuloAS.cs",
+              "RelativeDocumentMoniker": "ApplicationService\\ArticuloAS.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\ApplicationService\\ArticuloAS.cs",
+              "RelativeToolTip": "ApplicationService\\ArticuloAS.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAnwIgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:46:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\WebApp\\AdminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "WebApp\\AdminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\WebApp\\AdminPanel.aspx.cs",
+              "RelativeToolTip": "WebApp\\AdminPanel.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:35:20.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\WebApp\\AdminPanel.aspx",
+              "RelativeDocumentMoniker": "WebApp\\AdminPanel.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\WebApp\\AdminPanel.aspx*",
+              "RelativeToolTip": "WebApp\\AdminPanel.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-17T20:42:24.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\WebApp\\Site.Master",
+              "RelativeDocumentMoniker": "WebApp\\Site.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PORFOLIONEW\\TPWEB\\TPC-equipo-5a\\WebApp\\Site.Master",
+              "RelativeToolTip": "WebApp\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-18T22:03:00.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
